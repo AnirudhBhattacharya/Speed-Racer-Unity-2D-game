@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{5580C6ED-639B-EBEE-8EAF-CA7EAEDBD22B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/catMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/carController.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/EnemyCarMovement.cs" Line="7" Column="30" />
+      <File FileName="Assets/Scripts/carSpawner.cs" Line="34" Column="21" />
+      <File FileName="Assets/Scripts/EnemyDestroyer.cs" Line="24" Column="43" />
+      <File FileName="Assets/Scripts/catSpwaner.cs" Line="39" Column="2" />
+      <File FileName="Assets/catMovement.cs" Line="7" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bce2e486-f11d-4b7d-a2d2-3049be802f02" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

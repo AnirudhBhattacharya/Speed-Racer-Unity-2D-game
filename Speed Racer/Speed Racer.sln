@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{65F883BF-1401-C8CD-BE99-C173F874DCD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F883BF-1401-C8CD-BE99-C173F874DCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F883BF-1401-C8CD-BE99-C173F874DCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F883BF-1401-C8CD-BE99-C173F874DCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F883BF-1401-C8CD-BE99-C173F874DCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
